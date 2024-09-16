@@ -1,0 +1,4 @@
+question :  Peut-on faire une LV3 ?
+answer : Tu peux faire une LV3 . Cependant, cela dépend de ton choix d'option et de la disponibilité des cours. Il est possible de suivre une LV3 en choisissant l'option "Langues et Cultures".
+[{'info': "Il n'est pas possible de réaliser une LV3", 'source': 1}, {'info': 'Il est possible de réaliser une LV3', 'source': 2}, {'info': 'Il est possible de réaliser une LV3 dans le cadre de doubles diplômes', 'source': 1}, {'info': "La réalisation d'une LV3 dépend de ton choix d'option et de la disponibilité des cours", 'source': 2}, {'info': "Il est possible de suivre une LV3 en choisissant l'option 'Langues et Cultures'", 'source': 2}]
+---

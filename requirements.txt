@@ -1,0 +1,13 @@
+bitsandbytes==0.41.3
+git+https://github.com/huggingface/transformers.git
+git+https://github.com/huggingface/peft.git
+git+https://github.com/huggingface/accelerate.git
+datasets
+scipy
+ipywidgets
+wandb
+torch
+langchain
+sentence-transformers
+chromadb
+jq

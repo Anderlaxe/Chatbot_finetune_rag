@@ -1,0 +1,12 @@
+**logslurms**
+hugging_face_token.txt
+__pycache__
+*.pdf
+env/
+
+.env
+# .json
+# .csv
+# .md
+# .txt
+# .png
